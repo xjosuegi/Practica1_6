@@ -1,0 +1,23 @@
+Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)
+[2026-10-25 22:14:04.228] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] =============== NUEVA SESION ===============
+[2026-10-25 22:14:04.229] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Inicio | Archivo log: log_equipo_DESKTOP-MVMOEF1_nodo_6.txt | Procesos MPI: 7 (1 maestro + 6 esclavos) | Hilos OpenMP detectados: 12 | Procesadores logicos: 12
+[2026-10-25 22:14:04.229] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Procesador: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+[2026-10-25 22:14:11.714] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Comando recibido: opcion 1
+[2026-10-25 22:14:11.714] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Clave recibida: ZZZZZZ (long=6, total=2176782336)
+[2026-10-25 22:14:17.173] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Comando recibido: opcion 2
+[2026-10-25 22:14:17.173] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Esperando resultado de la busqueda secuencial (medicion de linea base, solo nodo 0)
+[2026-10-25 22:14:39.883] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:14:39.884] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1813985280 - 2176782335 (362797056 combinaciones) | Hilos OpenMP: 1
+[2026-10-25 22:14:41.890] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Progreso] Evaluados 185000000 de 362797056 asignados (51.0%)
+[2026-10-25 22:14:43.599] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [EXITO] [Clave Encontrada: "ZZZZZZ"] [Indice Global: 2176782335] [Tiempo Parcial: 3.7150s]
+[2026-10-25 22:15:00.071] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:15:00.072] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1813985280 - 2176782335 (362797056 combinaciones) | Hilos OpenMP: 2
+[2026-10-25 22:15:02.099] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Progreso] Evaluados 70000000 de 362797056 asignados (19.3%)
+[2026-10-25 22:15:04.101] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Progreso] Evaluados 138000000 de 362797056 asignados (38.0%)
+[2026-10-25 22:15:06.112] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Progreso] Evaluados 206000000 de 362797056 asignados (56.8%)
+[2026-10-25 22:15:08.123] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Progreso] Evaluados 275000000 de 362797056 asignados (75.8%)
+[2026-10-25 22:15:10.142] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [Progreso] Evaluados 345000000 de 362797056 asignados (95.1%)
+[2026-10-25 22:15:10.619] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] [EXITO] [Clave Encontrada: "ZZZZZZ"] [Indice Global: 2176782335] [Tiempo Parcial: 10.5474s]
+[2026-10-25 22:15:19.489] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Comando recibido: opcion 5
+[2026-10-25 22:15:19.489] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 6] [Hilo OpenMP: 0] Sesion finalizada
+Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)

@@ -1,0 +1,68 @@
+Integrantes: Gomez Ibarra Josue Alejandro | Nadya Janneth Munoz Madriz
+[2026-10-25 22:06:30.431] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] =============== NUEVA SESION ===============
+[2026-10-25 22:06:30.432] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Inicio | Archivo log: log_equipo_DESKTOP-MVMOEF1_nodo_4.txt | Procesos MPI: 6 (1 maestro + 5 esclavos) | Hilos OpenMP detectados: 12 | Procesadores logicos: 12
+[2026-10-25 22:06:30.432] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Procesador: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+[2026-10-25 22:06:41.843] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 1
+[2026-10-25 22:06:41.843] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Clave recibida: ZZZZZZ (long=6, total=2176782336)
+[2026-10-25 22:06:49.801] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 2
+[2026-10-25 22:06:49.802] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Esperando resultado de la busqueda secuencial (medicion de linea base, solo nodo 0)
+[2026-10-25 22:07:25.906] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:07:25.906] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1306069402 - 1741425868 (435356467 combinaciones) | Hilos OpenMP: 2
+[2026-10-25 22:07:27.909] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 84000000 de 435356467 asignados (19.3%)
+[2026-10-25 22:07:29.923] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 164000000 de 435356467 asignados (37.7%)
+[2026-10-25 22:07:31.949] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 245000000 de 435356467 asignados (56.3%)
+[2026-10-25 22:07:33.956] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 326000000 de 435356467 asignados (74.9%)
+[2026-10-25 22:07:35.971] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 403000000 de 435356467 asignados (92.6%)
+[2026-10-25 22:07:36.809] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Fin] Rango agotado o senal de parada recibida. Evaluados: 435356467 de 435356467
+[2026-10-25 22:07:51.691] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:07:51.691] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1306069402 - 1741425868 (435356467 combinaciones) | Hilos OpenMP: 1
+[2026-10-25 22:07:53.698] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 233000000 de 435356467 asignados (53.5%)
+[2026-10-25 22:07:55.449] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Fin] Rango agotado o senal de parada recibida. Evaluados: 435356467 de 435356467
+[2026-10-25 22:08:17.823] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 5
+[2026-10-25 22:08:17.823] [Equipo: E01] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Sesion finalizada
+Integrantes: Gomez Ibarra Josue Alejandro | Nadya Janneth Munoz Madriz
+Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)
+[2026-10-25 22:09:18.072] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] =============== NUEVA SESION ===============
+[2026-10-25 22:09:18.077] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Inicio | Archivo log: log_equipo_DESKTOP-MVMOEF1_nodo_4.txt | Procesos MPI: 6 (1 maestro + 5 esclavos) | Hilos OpenMP detectados: 12 | Procesadores logicos: 12
+[2026-10-25 22:09:18.077] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Procesador: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+[2026-10-25 22:09:41.561] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 1
+[2026-10-25 22:09:41.561] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Clave recibida: ZZZZZZ (long=6, total=2176782336)
+[2026-10-25 22:09:46.310] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 2
+[2026-10-25 22:09:46.310] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Esperando resultado de la busqueda secuencial (medicion de linea base, solo nodo 0)
+[2026-10-25 22:10:10.987] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:10:11.020] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1306069401 - 1741425867 (435356467 combinaciones) | Hilos OpenMP: 1
+[2026-10-25 22:10:13.026] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 238000000 de 435356467 asignados (54.7%)
+[2026-10-25 22:10:14.890] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Fin] Rango agotado o senal de parada recibida. Evaluados: 435356467 de 435356467
+[2026-10-25 22:10:29.739] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:10:29.771] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1306069401 - 1741425867 (435356467 combinaciones) | Hilos OpenMP: 12
+[2026-10-25 22:10:31.771] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 102000000 de 435356467 asignados (23.4%)
+[2026-10-25 22:10:33.777] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 200000000 de 435356467 asignados (45.9%)
+[2026-10-25 22:10:35.795] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 297000000 de 435356467 asignados (68.2%)
+[2026-10-25 22:10:37.799] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 392000000 de 435356467 asignados (90.0%)
+[2026-10-25 22:10:38.203] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Fin] Rango agotado o senal de parada recibida. Evaluados: 411000000 de 435356467
+[2026-10-25 22:13:52.320] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 5
+[2026-10-25 22:13:52.320] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Sesion finalizada
+Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)
+Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)
+[2026-10-25 22:14:04.228] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] =============== NUEVA SESION ===============
+[2026-10-25 22:14:04.231] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Inicio | Archivo log: log_equipo_DESKTOP-MVMOEF1_nodo_4.txt | Procesos MPI: 7 (1 maestro + 6 esclavos) | Hilos OpenMP detectados: 12 | Procesadores logicos: 12
+[2026-10-25 22:14:04.231] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Procesador: AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+[2026-10-25 22:14:11.683] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 1
+[2026-10-25 22:14:11.683] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Clave recibida: ZZZZZZ (long=6, total=2176782336)
+[2026-10-25 22:14:17.157] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 2
+[2026-10-25 22:14:17.157] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Esperando resultado de la busqueda secuencial (medicion de linea base, solo nodo 0)
+[2026-10-25 22:14:39.851] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:14:39.883] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1088391168 - 1451188223 (362797056 combinaciones) | Hilos OpenMP: 1
+[2026-10-25 22:14:41.885] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 237000000 de 362797056 asignados (65.3%)
+[2026-10-25 22:14:42.967] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Fin] Rango agotado o senal de parada recibida. Evaluados: 362797056 de 362797056
+[2026-10-25 22:15:00.040] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 3
+[2026-10-25 22:15:00.072] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Inicio] Rango asignado: 1088391168 - 1451188223 (362797056 combinaciones) | Hilos OpenMP: 2
+[2026-10-25 22:15:02.074] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 71000000 de 362797056 asignados (19.6%)
+[2026-10-25 22:15:04.095] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 142000000 de 362797056 asignados (39.1%)
+[2026-10-25 22:15:06.121] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 213000000 de 362797056 asignados (58.7%)
+[2026-10-25 22:15:08.143] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 284000000 de 362797056 asignados (78.3%)
+[2026-10-25 22:15:10.154] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Progreso] Evaluados 352000000 de 362797056 asignados (97.0%)
+[2026-10-25 22:15:10.463] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] [Fin] Rango agotado o senal de parada recibida. Evaluados: 362797056 de 362797056
+[2026-10-25 22:15:19.489] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Comando recibido: opcion 5
+[2026-10-25 22:15:19.489] [Equipo: Equipo_1] [PC: DESKTOP-MVMOEF1] [Nodo MPI: 4] [Hilo OpenMP: 0] Sesion finalizada
+Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)
