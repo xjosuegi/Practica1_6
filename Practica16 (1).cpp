@@ -1,7 +1,5 @@
 // =============================================================================
 // Practica 1.6: Algoritmo de Fuerza Bruta Distribuido con MPI y OpenMP
-// Arquitectura Maestro-Esclavo. Compilar: MS-MPI + /openmp:llvm (x64)
-// Solo memoria dinamica (new/delete). Sin arreglos estaticos ni std::vector.
 // =============================================================================
 #define _CRT_SECURE_NO_WARNINGS
 #include <mpi.h>
@@ -15,11 +13,8 @@
 #include <thread>
 #include <ctime>
 
-// >>> CAMBIA ESTO por el nombre de tu equipo <<<
-#define NOMBRE_EQUIPO "Equipo_1"
-
-// >>> CAMBIA ESTO: nombres completos, iniciando por primer apellido, en orden alfabetico <<<
-#define INTEGRANTES "Integrantes: APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S) | APELLIDO1 APELLIDO2 NOMBRE(S)"
+#define NOMBRE_EQUIPO "E01"
+#define INTEGRANTES "Integrantes: Nadya Janneth Munoz Madriz | Josue Alejandro Gomez Ibarra"
 
 static const int TAM_MSG = 2048;
 
